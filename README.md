@@ -60,44 +60,6 @@ Prerequisites
 Python 3.8+
 pip package manager
 
-Installation Steps
-
-Clone the repository
-
-bashCopygit clone https://github.com/yourusername/car-price-dashboard.git
-cd car-price-dashboard
-
-Create virtual environment
-
-bashCopypython -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-Install dependencies
-
-bashCopypip install -r requirements.txt
-
-Run the Streamlit app
-
-bashCopystreamlit run app.py
-Data Requirements
-
-CSV file with columns:
-
-brand
-model
-price
-engine_size
-Other relevant car details
-
-
-
-Future Enhancements
-
-Machine learning price prediction
-More advanced filtering
-Geographic price analysis
-Export functionality for reports
-
 Contributing
 
 License

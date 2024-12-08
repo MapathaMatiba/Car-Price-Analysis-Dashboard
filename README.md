@@ -74,7 +74,9 @@ Geographic Insights: Add location-based data analysis for regional price trends.
 # Acknowledgments
 
 Dataset: Provided data on car prices in South Africa.
+
 Libraries: Streamlit, Pandas, Matplotlib, and Seaborn for application development.
+
 This project offers a powerful platform for understanding car pricing trends, benefiting both individual consumers and industry stakeholders.
 
 # Contact

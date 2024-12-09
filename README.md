@@ -77,8 +77,11 @@ Matplotlib & Seaborn: For data visualization.
 # Future Enhancements
 
 Filters: Add dynamic filters for price range, engine size, and brand.
+
 Advanced Analytics: Integrate predictive models to estimate car prices based on input features.
+
 Enhanced Interactivity: Enable hover and click-based data exploration in charts.
+
 Geographic Insights: Add location-based data analysis for regional price trends.
 
 # Acknowledgments

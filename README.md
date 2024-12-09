@@ -59,9 +59,13 @@ Open the provided URL in your browser to interact with the dashboard.
 The dataset includes the following columns:
 
 Brand: The manufacturer of the car.
+
 Model: The car model name.
+
 Model Description: Additional details about the model.
+
 Price: The listed price of the car (in ZAR).
+
 Engine Size: The size of the car’s engine (in liters).
 
 # Project Dependencies

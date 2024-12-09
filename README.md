@@ -43,7 +43,7 @@ Copy code
 
 pip install streamlit pandas matplotlib seaborn
 
-3. Running the Dashboard
+2. Running the Dashboard
  
 Save the application code as app.py.
 

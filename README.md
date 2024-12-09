@@ -35,17 +35,24 @@ Brand-wise Model Count: A bar chart showing the number of models available for e
 # How to Use
 
 1. Prerequisites
-Install Python (version 3.7 or later).
-Install required libraries:
-bash
+   
+Install Python (version 3.7 or later).                
+Install required libraries:                              
+bash                  
 Copy code
+
 pip install streamlit pandas matplotlib seaborn
-2. Running the Dashboard
+
+3. Running the Dashboard
+ 
 Save the application code as app.py.
+
 Launch the dashboard using:
-bash
-Copy code
+
+bash       
+Copy code        
 streamlit run app.py
+
 Open the provided URL in your browser to interact with the dashboard.
 
 # Dataset Overview
@@ -62,7 +69,9 @@ Engine Size: The size of the car’s engine (in liters).
 The project uses the following Python libraries:
 
 Streamlit: For creating the interactive dashboard.
+
 Pandas: For data loading and preprocessing.
+
 Matplotlib & Seaborn: For data visualization.
 
 # Future Enhancements
